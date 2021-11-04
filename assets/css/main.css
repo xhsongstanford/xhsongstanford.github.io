@@ -180,14 +180,22 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-weight: 900;
-		line-height: 1.5;
-		letter-spacing: 0.075em;
+	h1 {
+		font-family: "Lithos Pro", Garamond, serif;
+		font-weight: 1;
+		line-height: 2;
+		letter-spacing: 0.4em;
 		text-transform: uppercase;
 		margin: 0 0 1rem 0;
 	}
+    h2, h3, h4, h5, h6 {
+        font-family: "Centaur", Garamond, serif;
+        font-weight: 900;
+        line-height: 1.5;
+        letter-spacing: 0.075em;
+        text-transform: uppercase;
+        margin: 0 0 1rem 0;
+    }
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			border-bottom: 0;
@@ -196,7 +204,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 4rem;
+		font-size: 3rem;
 		line-height: 1.1;
 		margin: 0 0 2rem 0;
 	}
